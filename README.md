@@ -25,5 +25,5 @@ General LLMs like ChatGPT frequently hallucinate (fabricate) details of medical 
 | 👤 **User Profiling** | Remembers age, MS type, location, and treatment priorities |
 | 📖 **Source Citations** | Every answer includes verifiable source links |
 | 🚫 **Hallucination Resistant** | Refuses to answer when information isn't in the knowledge base |
-| 🌐 **Live Demo** | [Deployed and accessible via browser](https://your-deployed-url.com) |
+| 🌐 **Live Demo** | [Coming soon!](https://my-deployed-url.com) |
 
