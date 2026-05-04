@@ -1,0 +1,38 @@
+# Virtual environment
+venv/
+env/
+.venv/
+
+# API keys (CRITICAL - never commit)
+.env
+.streamlit/secrets.toml
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# Vector database
+chroma_db/
+vector_store/
+
+# Data files (may be large or copyrighted)
+data/raw/*.pdf
+data/processed/
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+*.ipynb.streamlit/secrets.toml
