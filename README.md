@@ -7,7 +7,7 @@ An intelligent RAG (Retrieval-Augmented Generation) chatbot that helps users lea
 [![LangChain](https://img.shields.io/badge/langchain-0.3.15-green.svg)](https://www.langchain.com/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-## 🎯 Why This Project?
+## Why This Project?
 
 General LLMs like ChatGPT frequently hallucinate (fabricate) details of medical studies and other health data that can cause serious problems for patients if they trust the responses they get from the LLM (I caught one inventing a primate study on MS). This chatbot reduces the chance of misleading users by:
 
@@ -15,7 +15,7 @@ General LLMs like ChatGPT frequently hallucinate (fabricate) details of medical 
 - **Transparent citations** — every claim links to a specific source
 - **Persistent user profiles** — remembers you across sessions for personalized research help
 
-## ✨ Features
+## Features
 
 | Feature | Description |
 |---------|-------------|
@@ -27,4 +27,4 @@ General LLMs like ChatGPT frequently hallucinate (fabricate) details of medical 
 | 🚫 **Hallucination Resistant** | Refuses to answer when information isn't in the knowledge base |
 | 🌐 **Live Demo** | [Deployed and accessible via browser](https://your-deployed-url.com) |
 
-## 🏗️ Architecture
+## Architecture
