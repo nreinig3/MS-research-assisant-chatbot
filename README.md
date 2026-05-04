@@ -27,4 +27,3 @@ General LLMs like ChatGPT frequently hallucinate (fabricate) details of medical 
 | 🚫 **Hallucination Resistant** | Refuses to answer when information isn't in the knowledge base |
 | 🌐 **Live Demo** | [Deployed and accessible via browser](https://your-deployed-url.com) |
 
-## Architecture
