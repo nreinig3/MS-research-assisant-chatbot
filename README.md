@@ -9,7 +9,7 @@ An intelligent RAG (Retrieval-Augmented Generation) chatbot that helps users lea
 
 ## Why This Project?
 
-General LLMs like ChatGPT frequently hallucinate (fabricate) details of medical studies and other health data, causing serious problems. (I recently caught one inventing a primate study on MS). This chatbot reduces the chance of misleading users by:
+General LLMs like ChatGPT frequently hallucinate (fabricate) details of medical studies and other health data, causing serious problems for users -- I recently caught one inventing a primate study on MS. This chatbot reduces the chance of misleading users by:
 
 - **Controlled knowledge base** — answers only from curated medical documents
 - **Transparent citations** — every claim links to a specific source
